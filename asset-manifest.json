@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.39370971.css",
-    "main.js": "./static/js/main.9e3d9514.js",
+    "main.css": "./static/css/main.3d41ddac.css",
+    "main.js": "./static/js/main.ed14f3ec.js",
     "static/media/banner-tablets.png": "./static/media/banner-tablets.1a0db91f68e5ec0b063f.png",
     "static/media/Logo.svg": "./static/media/Logo.5f3f46477ca243d3367e869787c61cf4.svg",
     "static/media/LogoDark.svg": "./static/media/LogoDark.23fa555ebf2f7568ed7ab4fa844d4480.svg",
@@ -34,11 +34,11 @@
     "static/media/arrowUp.svg": "./static/media/arrowUp.891b934a02bc10dca3a3a41767483503.svg",
     "static/media/arrowUpDark.svg": "./static/media/arrowUpDark.5fe8ad1fe56e8dbd29b5a919f11dafdc.svg",
     "static/media/PrevButtonDark.svg": "./static/media/PrevButtonDark.594aaed50078a31117a2eb61ba1cee75.svg",
-    "main.39370971.css.map": "./static/css/main.39370971.css.map",
-    "main.9e3d9514.js.map": "./static/js/main.9e3d9514.js.map"
+    "main.3d41ddac.css.map": "./static/css/main.3d41ddac.css.map",
+    "main.ed14f3ec.js.map": "./static/js/main.ed14f3ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.39370971.css",
-    "static/js/main.9e3d9514.js"
+    "static/css/main.3d41ddac.css",
+    "static/js/main.ed14f3ec.js"
   ]
 }
